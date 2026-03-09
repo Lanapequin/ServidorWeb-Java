@@ -1,5 +1,7 @@
 # MicroSpringBoot - Reflexion Lab
 
+**Student:** Laura Natalia Perilla Quintero
+
 Mini framework IoC en Java puro que replica el comportamiento de Spring Boot usando **reflexión y anotaciones personalizadas**, sin ninguna dependencia de Spring.
 
 ## Arquitectura
